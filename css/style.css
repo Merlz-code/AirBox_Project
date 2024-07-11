@@ -1,0 +1,65 @@
+.header {
+    border-bottom: solid #2d2a3d;
+}
+.homeSites ul li{
+    list-style: none;
+    display: inline;
+}
+.containerLogo {
+    background-color: #262336;
+}
+.img-fluid {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.textTitle {
+    color: #cdccd2;
+}
+#Air {
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+.Host {
+    color: #6f6d7e;
+    margin-top: 0;
+}
+.homeSites.text-end {
+    color: #cdccd2;
+    margin-top: auto;
+}
+#spanBox {
+    font-size: large;
+}
+#link1 {
+    color: #68647d;
+    text-decoration: none;
+}
+.callSupport {
+    text-align: center;
+    background-color: #262336;
+    
+}
+.realperson {
+    color: #b3b2bd;
+}
+.customer {
+    color: #ffffff;
+}
+.clients {
+    color: #a3a0ae;
+}
+.textSupport {
+    color: #68647d;
+}
+.Try {
+    background-color: #9f98bb;
+    color: white;
+    border-radius: 20%;
+}
+.controlPanel {
+    text-align: center;
+    background-color: #f29b66;
+}
+.first {
+    color: white;
+}
