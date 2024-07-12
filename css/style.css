@@ -2,7 +2,6 @@
     border-bottom: solid #2d2a3d;
 }
 .homeSites ul li{
-    list-style: none;
     display: inline;
 }
 .containerLogo {
@@ -54,7 +53,8 @@
 .Try {
     background-color: #9f98bb;
     color: white;
-    border-radius: 20%;
+    border-radius: 8px;
+    border: none;
 }
 .controlPanel {
     text-align: center;
@@ -62,4 +62,114 @@
 }
 .first {
     color: white;
+}
+.second {
+    color: #dddce1;
+}
+.signUps {
+    text-align: center;
+    background-color: #e8e8ea;
+}
+.hosting {
+    background-color: #6f6c89;
+    color: #afabab;
+    border-radius: 5px;
+}
+.price {
+    background-color: #6f6c89;
+    color: #dbd8d8;
+}
+.arrowDown {
+    background-color: #6f6c89;
+}
+#month {
+    font-size: x-large;
+    color: #e6691d;
+}
+#disk {
+    background-color: #ffffff;
+    color: gray;
+}
+#band {
+    background-color: #f5f0f0;
+    color: gray;
+}
+#email {
+    background-color: #ffffff;
+    color: gray;
+}
+#php {
+    background-color: #f5f0f0;
+    color: gray;
+}
+.signB {
+    background-color: #ffffff;
+}
+.signButton {
+    background-color: #ec7745;
+    border-radius: 8px;
+    color: white;
+    border: none;
+}
+.shops {
+    
+    background-color: #262336;
+}
+.shopsBox li{
+    color: white;
+    list-style-position: inside;
+}
+.shopsBox li::marker{
+    color: orange;
+}
+.shopsBox p {
+    color: #bebcbe;
+}
+.services {
+    color: #afabab;
+}
+.shopsButton {
+    background-color: #ec7745;
+    border-radius: 8px;
+    color: white;
+    border: none;
+}
+.sponsors {
+    margin: 0;
+}
+.footerContainer {
+    background-color: #1a1921;
+}
+.textFooter {
+    
+}
+#Air2 {
+    color: #3e4053;
+}
+#spanBox2 {
+    color: #6f6a75;
+}
+.Host2 {
+    color: #444153;
+}
+.privacy {
+    color: #444153;
+}
+.privacy span {
+    font-size: small;
+}
+#link2 {
+    text-decoration: none;
+}
+.social1 {
+    padding-left: 5px;
+}
+.social2 {
+    padding-left: 5px;
+}
+.social3 {
+    padding-left: 5px;
+}
+.social4 {
+    padding-left: 5px;
 }
